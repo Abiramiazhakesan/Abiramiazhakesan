@@ -1,0 +1,29 @@
+.contact-details {
+    font-family: Verdana, sans-serif;
+    color: #333;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #e9ecef;
+}
+
+.contact-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color:#495057;
+}
+
+.contact-details p {
+    font-size: 16px;
+    line-height: 1.5;
+    color:#6c757d;
+}
+
+.contact-details a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.contact-details a:hover {
+    text-decoration: underline;
+}
